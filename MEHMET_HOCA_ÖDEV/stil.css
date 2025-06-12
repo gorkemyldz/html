@@ -1,0 +1,110 @@
+
+           body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .navbar {
+      background-color: black;
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px 30px;
+    }
+
+    .navbar .logo {
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    .navbar ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      gap: 20px;
+    }
+
+    .navbar a {
+      color: white;
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    .navbar a:hover {
+      color: #f44336;
+    }
+
+  
+
+    .kart {
+      border: 1px solid #ccc;
+      padding: 35px;
+      margin: 20px;
+      width: 350px;
+      display: inline-block;
+      vertical-align: top;
+      background-color: #f9f9f9;
+	  font-size:20px;
+	  
+	  
+    }
+		.resim{ background-image: url('hava.png');
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;}
+
+.resim2{ background-image: url('IMG_0479-e1621764055779.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;}
+
+
+.resim3{ background-image: url('1032097440_0_40_1200_794_1920x0_80_0_0_6f64ebd519b17df737ed3372dcc4a89c.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;}
+
+
+
+    .kart h3 {
+      margin-top: 0;
+		}
+		
+		.yazi{ font-family: 'Poppins', sans-serif;
+      padding: 30px;
+      color: #2c3e50; 
+	 }
+	 .section{font-family: 'Poppins', sans-serif;  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  color: #333;
+	 }
+.alt-bilgi {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 15px 0;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.alt-bilgi strong {
+  color: #00bfff;
+}
+
+.buyukluk{  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  
+  h1 {  font-family: 'Georgia', serif; 
+color:red;  }
+	
